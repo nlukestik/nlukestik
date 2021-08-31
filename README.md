@@ -16,11 +16,11 @@ Here are some ideas to get you started:
   <img width="60" height="60" src="https://raw.githubusercontent.com/nlukestik/nlukestik/main/NL7%2Bmini.png">
 </p>
 <h1 align="center">Hi, I'm Nico 👋🏼</h1>
-
 <h3 align="center">
   Bachelor's Degree in Information Systems Student<br/>
   FrontEnd Developer
 </h3>
+
 
 - 🔭 I’m currently working on ...<br/>
 - 🌱 I’m currently learning ...<br/>
