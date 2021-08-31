@@ -1,33 +1,27 @@
-<!--
-**nlukestik/nlukestik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <img width="60" height="60" src="https://raw.githubusercontent.com/nlukestik/nlukestik/main/NL7%2Bmini.png">
-</p>
 <h1 align="center">Hi, I'm Nico 👋🏼</h1>
 <h3 align="center">
   Bachelor's Degree in Information Systems Student<br/>
-  FrontEnd Developer
+  FrontEnd Developer<br/>
+  ☕
 </h3>
 
 
-- 🔭 I’m currently working on ...<br/>
-- 🌱 I’m currently learning ...<br/>
-- 👯 I’m looking to collaborate on ...<br/>
-- 🤔 I’m looking for help with ...<br/>
-- 💬 Ask me about ...<br/>
-- 📫 How to reach me: ...<br/>
-- 😄 Pronouns: ...<br/>
-- ⚡ Fun fact: ...<br/>
+- ✔ It pronounced like: *look a stick*
+- 🌎 From **Argentina** 🧉⚽
+- 🐓 **[River Plate](https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate)** fan
+- 🎵 **Beatles** fan
+- 🎮 Natural born gamer<br/><br/>
+- 👨🏻‍💻 Currently working on [my portfolio](https://github.com/nlukestik/MyPortfolio)
+- 🚀 Currently learning **React**<br/><br/>
+- Contact me: [nicolaslukestik@gmail.com](mailto:nicolaslukestik@gmail.com?subject=[From%20Your%20GitHub])<br/><br/>
 
+<p align="center">
+  <a href="https://nicolukestik.com" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/42502245?s=400&u=2639b2b3879f075608e98d956ca753af479cecae&v=4" height="40" width="40" /></a>
+  <a href="https://instagram.com/nicolukestik" target="blank"><img align="center" src="https://anthoncode.com/wp-content/uploads/2019/07/logo-minimalist-instagram.png?is-pending-load=1" alt="nicolukestik" height="40" width="61" /></a>
+  <a href="https://twitter.com/nlukestik14" target="blank"><img align="center" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-twitter-1.png&r=28&g=156&b=234" alt="nlukestik14" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nicolukestik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="nicolukestik" height="38" width="38" /></a>&nbsp;&nbsp;
+</p>
+
+<!-- - 👯 I’m looking to collaborate on <br/>-->
+<!-- - 🤔 I’m looking for help with ...<br/>-->
+<!-- - 💬 Ask me about ...<br/> -->
