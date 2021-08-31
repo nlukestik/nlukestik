@@ -12,8 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img width="60" height="60" src="https://raw.githubusercontent.com/nlukestik/nlukestik/main/NL7%2Bmini.png">
+</p>
+<h1 align="center">Hi, I'm Nico 👋🏼</h1>
 
-<h1 align="center"># Hi, I'm Nico 👋🏼</h1>
+<h3 align="center">
+  Bachelor's Degree in Information Systems Student<br/>
+  FrontEnd Developer
+</h3>
 
-<p align="center">##Bachelor's Degree in Information Systems Student</p>
-<p align="center">##FrontEnd Developer</p>
+- 🔭 I’m currently working on ...<br/>
+- 🌱 I’m currently learning ...<br/>
+- 👯 I’m looking to collaborate on ...<br/>
+- 🤔 I’m looking for help with ...<br/>
+- 💬 Ask me about ...<br/>
+- 📫 How to reach me: ...<br/>
+- 😄 Pronouns: ...<br/>
+- ⚡ Fun fact: ...<br/>
+
