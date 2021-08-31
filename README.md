@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 # Hi, I'm Nico 👋🏼
 
-:+1:
+<p align="center">Bachelor's Degree in Information Systems Student</p>
+<p align="center">FrontEnd Developer</p>
