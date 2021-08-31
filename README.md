@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Nico 👋🏼
+<h1 align="center"># Hi, I'm Nico 👋🏼</h1>
 
-<p align="center">Bachelor's Degree in Information Systems Student</p>
-<p align="center">FrontEnd Developer</p>
+<p align="center">##Bachelor's Degree in Information Systems Student</p>
+<p align="center">##FrontEnd Developer</p>
