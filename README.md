@@ -12,7 +12,7 @@
 - 🎵&nbsp;&nbsp;**Beatles** fan
 - 🎮&nbsp;&nbsp;Natural born gamer<br/><br/>
 - 👨🏻‍💻&nbsp;&nbsp;Currently working on [my portfolio](https://github.com/nlukestik/MyPortfolio)
-- 🚀&nbsp;&nbsp;Currently learning **React**<br/><br/>
+- 🚀&nbsp;&nbsp;Currently loving **React**<br/><br/>
 - 📩&nbsp;&nbsp;Contact me: [nicolaslukestik@gmail.com](mailto:nicolaslukestik@gmail.com?subject=[From%20Your%20GitHub])<br/><br/>
 
 <p align="center">
