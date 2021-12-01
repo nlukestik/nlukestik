@@ -6,7 +6,7 @@
 </h3>
 
 
-- ✔&nbsp;&nbsp;It pronounced like: *look a stick*
+- ✔&nbsp;&nbsp;It's pronounced like: *look a stick*
 - 🌎&nbsp;&nbsp;From **Argentina** 🧉⚽
 - 🐓&nbsp;&nbsp;**[River Plate](https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate)** fan
 - 🎵&nbsp;&nbsp;**Beatles** fan
