@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Nico 👋🏼</h1>
 <h3 align="center">
   ☕
-  <br/><br/>Bachelor's Degree in Information Systems Student<br/><br/>
-  FrontEnd Developer<br/>
+  <br/>FrontEnd Developer<br/>
 </h3>
 
 
